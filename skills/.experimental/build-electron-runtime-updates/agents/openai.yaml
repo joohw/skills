@@ -1,0 +1,4 @@
+interface:
+  display_name: "Electron + Runtime Auto Updates"
+  short_description: "Build safe dual-channel Electron and runtime updates"
+  default_prompt: "Use $build-electron-runtime-updates to implement separate desktop-shell and runtime auto-update channels in this Electron app."
